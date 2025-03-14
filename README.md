@@ -43,6 +43,13 @@ c. Chat Rooms
 
         Rooms are dynamically created/destroyed as users join/leave.
 
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/aba76cc5-a22a-4457-9aa0-fcefe71b9697)
+![Image](https://github.com/user-attachments/assets/efce1c01-c83b-45bc-add2-61fc93ff511b)
+![Image](https://github.com/user-attachments/assets/7952fa32-dd06-44c7-a27c-a953700687c8)
+
 d. Message Flow
 
     Client sends a message: Emits a send_message event with data (e.g., { roomId: 'room-123', text: 'Hello' }).
